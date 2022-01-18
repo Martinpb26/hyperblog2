@@ -3,3 +3,4 @@ Esta es  la historia de Freddy
 Fredy tiene 32 años y nacio en Colombia
 
 Mañana nos enfocaremos en la vida laboral
+Hola mundo desde git hub
